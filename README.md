@@ -1,6 +1,6 @@
+# OMNIVERSE Starter Template
 
-
-## How this app built from the official template
+## How this app was built from the official template
 
 ```sh
 git clone https://github.com/NVIDIA-Omniverse/kit-app-template.git
@@ -41,7 +41,7 @@ cd omniverse-devapp
 .\repo.bat launch
 ```
 
-## How this extension built from the official template
+## How this extension was built from the official template
 
 ```sh
 .\repo.bat template new
