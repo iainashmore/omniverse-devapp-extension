@@ -29,7 +29,7 @@ Do you want to add application layers? [No]
 ```
 
 
-## Quickstart
+## Quickstart App Development
 
 ```sh
 git clone https://github.com/iainashmore/omniverse-devapp.git
@@ -74,6 +74,19 @@ import random
 ```
 
 ```sh
+.\repo.bat build
+
+.\repo.bat launch
+```
+
+## Quickstart Extension Development
+
+
+```sh
+git clone https://github.com/iainashmore/omniverse-devapp-extension.git
+
+cd omniverse-devapp-extension
+
 .\repo.bat build
 
 .\repo.bat launch
