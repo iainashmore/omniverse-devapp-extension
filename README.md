@@ -19,8 +19,6 @@ Enter name of application: [enterprise.devapp]
 
 Enter application_display_name: [Dev App]
 
-
-
 Do you want to add application layers? [No]
 
 .\repo.bat build
