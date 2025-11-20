@@ -57,7 +57,7 @@ Enter extension_display_name: Dev Extension
 Enter version: 0.1.0 [Enter]
 ```
 
-### Add enterprise.dev_extension to the .kit file
+Add enterprise.dev_extension to the .kit file.
 Within the .kit file for the editor application (/source/apps/enterprise.devapp.kit), add the new extension to the [dependencies] section:
 
 [dependencies]
